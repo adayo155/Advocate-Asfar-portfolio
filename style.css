@@ -146,6 +146,10 @@ html{
     margin-bottom: 20px;
 }
 
+#intro p{
+  font-size: 1rem;
+}
+
 
 /* porfolio */
 

@@ -1,5 +1,6 @@
 #home{
-    height: 820px;
+    width: 414px;
+    height: 900px;
 }
 
 .headings{
@@ -7,14 +8,18 @@
 }
 
 #pic img{
-    width: 300px;
+    width: 3000px;
     height: 175px;
 }
+
 
 #intro h2{
     font-size: 1.5rem ;
 }
 
+#intro p{
+    font-size: 20rem;
+}
 .gallary img{
     width: 250px;
     height: 150px;
